@@ -82,7 +82,7 @@ Lead Speaker (2025) and Delegate (2023, 2024). I authored **three bills**:
 - 🌮 Taco Bell Live Más $10,000 Scholarship (2025)
 - 📜 US Chopin Foundation Scholarship (2023–25)
 - 📜 Attorney Rose Tsai Outstanding Public Service Scholarship
-- 🌐 National Model UN Outstanding Team Award (Second Place Delegation) and UCLA Model UN Best Delegation (2024)
+- 🌐 National Model UN Outstanding Team Award (Second Place Delegation) (2024) and UCLA Model UN Best Delegation (2025)
 
 ---
 
