@@ -68,7 +68,8 @@ Lead Speaker (2025) and Delegate (2023, 2024). I authored **three bills**:
 - **Co-Founder / Program Director, Practice Makes Perfect** (2020–present): free music and coding lessons for underserved students, in partnership with Illumination Foundation
 - **Team Lead & Fundraising Chair, Leadership Initiatives International Business Internship**: designed a bookkeeping system for a store in Bauchi, Nigeria; raised $7,000 and won the **Global Fundraising Award (2024)**
 - **Founder, Chamber Music Club**: benefit concerts raised over $50,000
-- **Founder & President, American Red Cross Club** and **Investment Club**
+- **Founder & President, American Red Cross Club**
+- **Secretary, Business Club**: won the **Best Marketing Award** at the Model Entrepreneurship Competition in Tokyo
 - **Irvine Chapter Lead, KidzCoding**: teaching younger students to code
 - Presidential Volunteer Service Gold Award (2022–25)
 
