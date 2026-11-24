@@ -1,114 +1,95 @@
-# Hey, I'm Kyle Yeung 👋
+# Hi, I'm Kyle Yeung 👋
 
-**High school junior at Pacific Academy (Class of 2026) | Irvine, CA**
-Building at the intersection of **economics, computer science, and public policy**, with a background in entrepreneurship, finance, and classical piano.
+**Stanford University, Class of 2030 · Irvine, CA**
+Studying **computer science, economics, and music**. Interested in software engineering, AI, and music technology.
 
-I like turning ideas into things that work, whether that's a nonprofit, a policy proposal, a student organization, or a piece of code.
-
----
-
-## 🔭 What I'm About
-
-- 📊 **Econ + CS:** Interested in how markets, incentives, and technology shape each other
-- 🤖 **AI in education:** Passionate about using AI responsibly to help students and teachers
-- 🏛️ **Policy:** Writing legislation that turns ideas into real change for students
-- 🚀 **Entrepreneurship:** Founder and builder of student-led organizations
-- 🎹 **Music:** Principal pianist and concertmaster in youth orchestras; music taught me discipline, collaboration, and performing under pressure
+🌐 **[kyleayeung.github.io](https://kyleayeung.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/kyle-yeung-a3a467381/) · 🎹 [Performances](https://kyleayeung.github.io/#performances)
 
 ---
 
-## 🏛️ Policy & Technology: California Student Advisory Board on Legislation in Education (CASC)
+## 🔭 What I'm working on
 
-Lead Speaker (2025) and Delegate (2023, 2024). I authored **three bills** on:
-
-| Bill Focus | What it does |
-|---|---|
-| 🧠 **Mental health resources in schools** | Expands access to mental health support and resources for students |
-| 🔎 **AI-assisted dyslexia screening pilot** | Pilots AI tools to identify dyslexia early in younger children so they can get support sooner |
-| 🎓 **AI-focused professional development days** | Restructures PD days to teach school staff how to use AI strategically and responsibly in the classroom |
-
----
-
-## 💼 Entrepreneurship, Finance & Leadership
-
-- **Co-Founder / Program Director, Practice Makes Perfect** (2020–present)
-- **Finance Chair & Team Lead, Leadership Initiatives International Business Internship Program**: helped drive the team to the **Global Fundraising Award (2024)**
-- **Founder & President, American Red Cross Club** (2024–present)
-- **Founder & President, Pacific Academy Chamber Music Club** (2022–present)
-- **Irvine Chapter Lead, KidzCoding**: introducing younger students to coding
-- **Model Entrepreneurship Competition: Best Marketing Award**
-
----
-
-## 📚 Research & Academics
-
-- **Columbia Business School:** Research Paper (2025)
-- **UPenn Wharton Global Youth Program:** Alumnus
-- **Johns Hopkins Center for Talented Youth:** Honors Student (since 2020)
-- **National Honors Society** (2024–25)
-- GPA: 4.78 weighted / 4.0 unweighted | SAT: 1550
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<!-- TODO: Replace with the languages/tools you actually use. Remove anything you don't. -->
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Exploring:** data analysis, economic modeling, and applied AI
+- 🎧 **Music tech:** audio processing, and using AI in music education
+- 🤖 **AI in education:** using AI responsibly to help students and teachers, from classroom tools to state policy
+- 📊 **Econ + CS:** how markets, incentives, and technology shape each other
+- 🌐 **Web development:** building and shipping small, useful apps
+- 🎹 **Music:** classical pianist, violinist, and composer; LA Phil Composer Fellow
 
 ---
 
 ## 📌 Featured Projects
 
-<!-- TODO: Pin 3 to 6 repos on your profile and describe them here. -->
-
 | Project | Description | Tech |
 |---|---|---|
-| 🔗 *Coming soon* | *Short description* | *Tools used* |
-| 🔗 *Coming soon* | *Short description* | *Tools used* |
-| 🔗 *Coming soon* | *Short description* | *Tools used* |
+| 🎹 **AI-Assisted Piano Practice Coach** | Upload a practice recording and get feedback on timing and note accuracy, with progress tracking across sessions | Python, audio analysis, LLMs |
+| 🌐 **[Personal Website](https://github.com/kyleayeung/kyleayeung.github.io)** | My projects, research, and music performances in one place | HTML, CSS, JavaScript |
+| 👻 **Pac-Man** | A Pac-Man clone with all four ghosts, each with its own chase behavior | Java |
+| 🎤 **K-pop Song Recommender & Trivia** | Recommends songs from your favorite artist and quizzes you on their discography | Python |
 
 ---
 
-## 🌍 Community & Service
+## 🛠️ Languages & Tools
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Coursework:** CS106B Programming Abstractions (Stanford)
+**Exploring:** audio processing, web development, applied AI
+
+---
+
+## 📚 Research
+
+- **Columbia Business School** (2025): economics research on the National Endowment for the Arts
+- **UC Irvine, Center for the Scientific Study of Ethics and Morality** (2024): used R and regression to study how media consumption and community engagement relate to democratic norms
+- **UPenn Wharton Global Youth Program:** alumnus
+- **Johns Hopkins Center for Talented Youth:** honors student
+
+---
+
+## 🏛️ Policy: California Association of Student Councils
+
+Lead Speaker (2025) and Delegate (2023, 2024). I authored **three bills**:
+
+| Bill | What it does |
+|---|---|
+| 🧠 **Mental health resources in schools** | Expands access to mental health support for students |
+| 🔎 **AI-assisted dyslexia screening pilot** | Pilots AI tools to identify dyslexia early so younger students get support sooner |
+| 🎓 **AI-focused professional development days** | Restructures PD days to teach school staff to use AI strategically and responsibly |
+
+---
+
+## 💼 Leadership & Service
+
+- **Co-Founder / Program Director, Practice Makes Perfect** (2020–present): free music and coding lessons for underserved students, in partnership with Illumination Foundation
+- **Team Lead & Fundraising Chair, Leadership Initiatives International Business Internship**: designed a bookkeeping system for a store in Bauchi, Nigeria; raised $7,000 and won the **Global Fundraising Award (2024)**
+- **Founder, Chamber Music Club**: benefit concerts raised over $50,000
+- **Founder & President, American Red Cross Club** and **Investment Club**
+- **Irvine Chapter Lead, KidzCoding**: teaching younger students to code
 - Presidential Volunteer Service Gold Award (2022–25)
-- City of Irvine Technology Tutor
-- Illumination Foundation (Homeless Shelter) Volunteer
-- Election Day Vote Center Volunteer (2024)
-- City of Hope Performance Volunteer
-- Smile Train Ambassador / Performance Track Member
-- The Back to BACH Project, Orange County Member
 
 ---
 
 ## 🏆 Selected Honors
 
-- 🌮 Taco Bell Live Más $10,000 Scholarship (2025)
-- 🎹 National YoungArts Winner (2024–25)
-- 🎹 Music Teachers National Association National Winner (2019, 2023)
-- 🎹 Music Teachers Association of California Young Artist Guild (2025)
-- 🌐 National Model UN Outstanding Team Award (2024) and UCLA Model UN Best Delegation Team Award (2024)
-- 📜 Attorney Rose Tsai Outstanding Public Service Scholarship
-- 📜 US Chopin Foundation Scholarship (2023–25)
 - 🎼 LA Phil Composer Fellowship Program (2025–26)
-- 🎻 Juilliard Pre-College Program (2019–21)
+- 🎹 National YoungArts Winner with Distinction (2024, 2025)
+- 🎹 Music Teachers National Association National Winner (2019, 2023)
+- 🌮 Taco Bell Live Más $10,000 Scholarship (2025)
+- 📜 US Chopin Foundation Scholarship (2023–25)
+- 📜 Attorney Rose Tsai Outstanding Public Service Scholarship
+- 🌐 National Model UN Outstanding Team Award and UCLA Model UN Best Delegation (2024)
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to conversations about **AI + education policy, econ and finance, entrepreneurship, and student-led initiatives.**
+Always happy to talk about **music tech, AI in education, econ and finance, and student-led initiatives.**
 
-📧 kyleayeung0222@gmail.com
-
-<!-- Optional: add LinkedIn, personal site, or a YouTube link to your piano performances. -->
-
----
+📧 kyley@stanford.edu
 
 *"Practice makes perfect" 🎹 (literally, it's the name of my nonprofit)*
